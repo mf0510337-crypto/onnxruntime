@@ -46,4 +46,4 @@ or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any addi
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).6969a26dd81bf9e9d3ff03fb903b9a33eddc6d56
